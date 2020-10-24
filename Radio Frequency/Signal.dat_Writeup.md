@@ -5,7 +5,7 @@ Below is write-up of Signal.dat which captured RF Signal.
 
 After CTF ended, I solved this challenge.
 
-For this write-up, I received a lot of help from **'Lee Kwon-hyung'**, my colleague.
+For this write-up, I received a lot of help from **'Lee Kwon-hyeong'**, my colleague.
 
 ```Challenge : Analyze the Signal and submit a flag.```
 
